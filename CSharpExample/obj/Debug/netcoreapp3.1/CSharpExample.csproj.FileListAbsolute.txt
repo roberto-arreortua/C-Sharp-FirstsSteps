@@ -1,0 +1,13 @@
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.exe
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.deps.json
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.runtimeconfig.json
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.runtimeconfig.dev.json
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.dll
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\bin\Debug\netcoreapp3.1\CSharpExample.pdb
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.csprojAssemblyReference.cache
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.AssemblyInfoInputs.cache
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.AssemblyInfo.cs
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.csproj.CoreCompileInputs.cache
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.dll
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.pdb
+C:\Users\MI00333\Documents\C#\CSharpExample\CSharpExample\obj\Debug\netcoreapp3.1\CSharpExample.genruntimeconfig.cache

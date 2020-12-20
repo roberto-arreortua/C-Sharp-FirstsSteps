@@ -1,0 +1,13 @@
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\bin\Debug\netcoreapp3.1\LINQQueryExpressions.exe
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\bin\Debug\netcoreapp3.1\LINQQueryExpressions.deps.json
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\bin\Debug\netcoreapp3.1\LINQQueryExpressions.runtimeconfig.json
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\bin\Debug\netcoreapp3.1\LINQQueryExpressions.runtimeconfig.dev.json
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\bin\Debug\netcoreapp3.1\LINQQueryExpressions.dll
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\bin\Debug\netcoreapp3.1\LINQQueryExpressions.pdb
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\obj\Debug\netcoreapp3.1\LINQQueryExpressions.csprojAssemblyReference.cache
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\obj\Debug\netcoreapp3.1\LINQQueryExpressions.AssemblyInfoInputs.cache
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\obj\Debug\netcoreapp3.1\LINQQueryExpressions.AssemblyInfo.cs
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\obj\Debug\netcoreapp3.1\LINQQueryExpressions.csproj.CoreCompileInputs.cache
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\obj\Debug\netcoreapp3.1\LINQQueryExpressions.dll
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\obj\Debug\netcoreapp3.1\LINQQueryExpressions.pdb
+C:\Users\MI00333\Documents\C#\CSharpExample\LINQQueryExpressions\obj\Debug\netcoreapp3.1\LINQQueryExpressions.genruntimeconfig.cache
